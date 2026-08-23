@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Test results
+**/TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# ASP.NET Core local settings
+**/appsettings.Development.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
+frontend/build/
+
+# Frontend environment files
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
