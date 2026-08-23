@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/">
-    <File Path=".gitignore" />
-  </Folder>
-  <Project Path="PRReviewAgent.Api/PRReviewAgent.Api.csproj" Id="1de63ab6-7384-4de1-9645-3d175283e6ef" />
-  <Project Path="PRReviewAgent.Core/PRReviewAgent.Core.csproj" Id="0b9da6f8-dab2-41c1-9b7c-8744a65223a6" />
-  <Project Path="PRReviewAgent.Data/PRReviewAgent.Data.csproj" Id="cdc19bef-2680-40c5-a7f0-a04ed7a3f773" />
-  <Project Path="PRReviewAgent.Service/PRReviewAgent.Service.csproj" Id="5eee8186-9ee0-4e20-a1ae-55c44bf7d054" />
-</Solution>
